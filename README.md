@@ -15,5 +15,5 @@ python3 tableForge.py
 ## Screenshot
 
 <p align="center">
-        <img src="./screenshot.png" width="60%" />
+        <img src="./screenshot.png" width="100%" />
 </p>
