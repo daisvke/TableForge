@@ -15,6 +15,6 @@ python3 tableForge.py
 ## Screenshot
 
 <p align="center">
-        <img src="./screenshot.png" width="80%" />  
+        <img style="display: block" src="./screenshot.png" width="80%" />
+        <span><i>Example with the ARP packet</i></span>
 </p>
-<span><i>Example with the ARP packet</i></span>
